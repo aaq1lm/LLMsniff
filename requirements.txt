@@ -1,0 +1,9 @@
+groq
+scapy
+pandas
+python-dotenv
+scikit-learn
+matplotlib
+seaborn
+numpy
+tenacity
